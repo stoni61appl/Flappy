@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Weightitem : MonoBehaviour
 {
-    [SerializeField] private int weight = 1;
+    [SerializeField] private float weight = 1f;
     [SerializeField] private int points = 30;
 
     [SerializeField] private float lifeTime = 10f;

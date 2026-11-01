@@ -349,7 +349,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &144652729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -449,7 +449,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &341370906
 Transform:
   m_ObjectHideFlags: 0
@@ -630,7 +630,7 @@ Transform:
   m_GameObject: {fileID: 486487294}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 140, z: 0}
+  m_LocalPosition: {x: 0, y: -35, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1194,8 +1194,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e7215242efd3b34eb68002d54a44724, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldSpawner
-  _maxTime: 3
-  _heightRange: 2
+  _maxTime: 5
+  _heightRange: 4
   _gold: {fileID: 5046351503636057203, guid: 3adc84985c60e494d8c4b780172b7469, type: 3}
 --- !u!1 &1252150861
 GameObject:
@@ -1494,6 +1494,7 @@ Transform:
   - {fileID: 1792279054}
   - {fileID: 1252150863}
   - {fileID: 949130204}
+  - {fileID: 1837677617}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1650769367
@@ -1796,7 +1797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1da25a4848f9fb740b6ad06bf07e1a1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Fly
-  _velocity: 3
+  _velocity: 4
   _rotationSpeed: 3
   _minusWeight: 0.1
   _minPulse: 0.25
@@ -1909,6 +1910,53 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   _gameOverCanvas: {fileID: 144652728}
+--- !u!1 &1837677616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1837677617}
+  - component: {fileID: 1837677618}
+  m_Layer: 0
+  m_Name: GoldSpawner (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1837677617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1837677616}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.94006, y: 0.59424, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1531941761}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1837677618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1837677616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e7215242efd3b34eb68002d54a44724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GoldSpawner
+  _maxTime: 5
+  _heightRange: 6
+  _gold: {fileID: 2285883724508466723, guid: 9041a90e6b7ecc848bc2b2ec275efa7a, type: 3}
 --- !u!1 &1909677917
 GameObject:
   m_ObjectHideFlags: 0
