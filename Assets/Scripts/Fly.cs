@@ -17,7 +17,7 @@ public class Fly : MonoBehaviour
     [SerializeField] private float _minPulse = 0.25f;
 
     private Rigidbody2D _rb;
-    private int actualWeight = 0;
+    private float actualWeight = 0f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -48,7 +48,7 @@ public class Fly : MonoBehaviour
         GameManager.instance.GameOver();
     }
 
-    public void AddWeight(int cant)
+    public void AddWeight(float cant)
     {
         actualWeight += cant;
 
