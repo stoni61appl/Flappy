@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 0e877cf324d0823449fac0ddaa08d3c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4720150858359697164
+    second: Bombardino Crocodilo-Sheet_0
+  - first:
+      213: 4524309924874324040
+    second: Bombardino Crocodilo-Sheet_1
+  - first:
+      213: 5506484300327964210
+    second: Bombardino Crocodilo-Sheet_2
+  - first:
+      213: -2757123379289379425
+    second: Bombardino Crocodilo-Sheet_3
+  - first:
+      213: 1242234674021643023
+    second: Bombardino Crocodilo-Sheet_4
+  - first:
+      213: 1106010337196528862
+    second: Bombardino Crocodilo-Sheet_5
+  - first:
+      213: -6205061587615839319
+    second: Bombardino Crocodilo-Sheet_6
+  - first:
+      213: 4396996600595962982
+    second: Bombardino Crocodilo-Sheet_7
+  - first:
+      213: -8352854177336086728
+    second: Bombardino Crocodilo-Sheet_8
+  - first:
+      213: -319937869702131747
+    second: Bombardino Crocodilo-Sheet_9
+  - first:
+      213: -7598183613601594191
+    second: Bombardino Crocodilo-Sheet_10
+  - first:
+      213: 355052898601666641
+    second: Bombardino Crocodilo-Sheet_11
+  - first:
+      213: 9035043414511740525
+    second: Bombardino Crocodilo-Sheet_12
+  - first:
+      213: 3670068247725253180
+    second: Bombardino Crocodilo-Sheet_13
+  - first:
+      213: 7948449216415688339
+    second: Bombardino Crocodilo-Sheet_14
+  - first:
+      213: -7939998494363568014
+    second: Bombardino Crocodilo-Sheet_15
+  - first:
+      213: -9112754026889112749
+    second: Bombardino Crocodilo-Sheet_16
+  - first:
+      213: 3365128356547348679
+    second: Bombardino Crocodilo-Sheet_17
+  - first:
+      213: 7869298474918795165
+    second: Bombardino Crocodilo-Sheet_18
+  - first:
+      213: -4722035850910813356
+    second: Bombardino Crocodilo-Sheet_19
+  - first:
+      213: 6927064393186754449
+    second: Bombardino Crocodilo-Sheet_20
+  - first:
+      213: 193279830665938391
+    second: Bombardino Crocodilo-Sheet_21
+  - first:
+      213: 865261861579140225
+    second: Bombardino Crocodilo-Sheet_22
+  - first:
+      213: 5702785565345025576
+    second: Bombardino Crocodilo-Sheet_23
+  - first:
+      213: 4416106854412772901
+    second: Bombardino Crocodilo-Sheet_24
+  - first:
+      213: 1445630875191126084
+    second: Bombardino Crocodilo-Sheet_25
+  - first:
+      213: 3833317499589971748
+    second: Bombardino Crocodilo-Sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 341
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f017318dc7ae7eb0800000000000000
+      internalID: -4720150858359697164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84888e5e7e399ce30800000000000000
+      internalID: 4524309924874324040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 339
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e405aeb46fa6c40800000000000000
+      internalID: 5506484300327964210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 340
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d2887f4eabcb9d0800000000000000
+      internalID: -2757123379289379425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 275
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03bbb8badd4d3110800000000000000
+      internalID: 1242234674021643023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 275
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed45282ba86595f00800000000000000
+      internalID: 1106010337196528862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 275
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8cb4ac5133e9a0800000000000000
+      internalID: -6205061587615839319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 211
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c5f19ac15450d30800000000000000
+      internalID: 4396996600595962982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 211
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fae3b8163b41c80800000000000000
+      internalID: -8352854177336086728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 211
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf853ed33a5f8bf0800000000000000
+      internalID: -319937869702131747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 211
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b44515a244dd8690800000000000000
+      internalID: -7598183613601594191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 211
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15800a9eab66de400800000000000000
+      internalID: 355052898601666641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 211
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d666434ad1ce26d70800000000000000
+      internalID: 9035043414511740525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 212
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32aa1f50a3bee230800000000000000
+      internalID: 3670068247725253180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 147
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39660bb13709e4e60800000000000000
+      internalID: 7948449216415688339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 148
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b252ff657fc190800000000000000
+      internalID: -7939998494363568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35393c57e7ef88180800000000000000
+      internalID: -9112754026889112749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 89
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8499b396653be20800000000000000
+      internalID: 3365128356547348679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97de05054d553d60800000000000000
+      internalID: 7869298474918795165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 89
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4533dc97965f77eb0800000000000000
+      internalID: -4722035850910813356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f372c4d50e12060800000000000000
+      internalID: 6927064393186754449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 36
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d547116bfaaea200800000000000000
+      internalID: 193279830665938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 89
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c2e192417020c00800000000000000
+      internalID: 865261861579140225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 20
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e8d9cc14d542f40800000000000000
+      internalID: 5702785565345025576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e07b59c9294d30800000000000000
+      internalID: 4416106854412772901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448aa182f99ef0410800000000000000
+      internalID: 1445630875191126084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bombardino Crocodilo-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 22
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f4952c4fda23530800000000000000
+      internalID: 3833317499589971748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bombardino Crocodilo-Sheet_0: -4720150858359697164
+      Bombardino Crocodilo-Sheet_1: 4524309924874324040
+      Bombardino Crocodilo-Sheet_10: -7598183613601594191
+      Bombardino Crocodilo-Sheet_11: 355052898601666641
+      Bombardino Crocodilo-Sheet_12: 9035043414511740525
+      Bombardino Crocodilo-Sheet_13: 3670068247725253180
+      Bombardino Crocodilo-Sheet_14: 7948449216415688339
+      Bombardino Crocodilo-Sheet_15: -7939998494363568014
+      Bombardino Crocodilo-Sheet_16: -9112754026889112749
+      Bombardino Crocodilo-Sheet_17: 3365128356547348679
+      Bombardino Crocodilo-Sheet_18: 7869298474918795165
+      Bombardino Crocodilo-Sheet_19: -4722035850910813356
+      Bombardino Crocodilo-Sheet_2: 5506484300327964210
+      Bombardino Crocodilo-Sheet_20: 6927064393186754449
+      Bombardino Crocodilo-Sheet_21: 193279830665938391
+      Bombardino Crocodilo-Sheet_22: 865261861579140225
+      Bombardino Crocodilo-Sheet_23: 5702785565345025576
+      Bombardino Crocodilo-Sheet_24: 4416106854412772901
+      Bombardino Crocodilo-Sheet_25: 1445630875191126084
+      Bombardino Crocodilo-Sheet_26: 3833317499589971748
+      Bombardino Crocodilo-Sheet_3: -2757123379289379425
+      Bombardino Crocodilo-Sheet_4: 1242234674021643023
+      Bombardino Crocodilo-Sheet_5: 1106010337196528862
+      Bombardino Crocodilo-Sheet_6: -6205061587615839319
+      Bombardino Crocodilo-Sheet_7: 4396996600595962982
+      Bombardino Crocodilo-Sheet_8: -8352854177336086728
+      Bombardino Crocodilo-Sheet_9: -319937869702131747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
