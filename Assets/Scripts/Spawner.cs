@@ -8,7 +8,7 @@ using System.Collections.Generic;
 public class Spawner : MonoBehaviour
 {
 
-    [SerializeField] private float _maxTime = 2f;
+    [SerializeField] private float _maxTime = 2f; // Sin abreviaciones
     [SerializeField] private float _heightRange = 0.45f;
     [SerializeField] private GameObject _pipe;
 
@@ -37,10 +37,10 @@ public class Spawner : MonoBehaviour
 
     private void SpawnPipe()
     {
-        Vector3 spawnPos = transform.position + new Vector3(0, Random.Range(-_heightRange, _heightRange));
+        Vector3 spawnPos = transform.position + new Vector3(0, Random.Range(-_heightRange, _heightRange)); // Sin abreviaciones
         GameObject pipe = Instantiate(_pipe, spawnPos, Quaternion.identity);
 
-        Destroy(pipe, 10f);
+        Destroy(pipe, 10f); // Revisar: extraer la duración a una configuración con nombre
 
     }
 }

@@ -1,3 +1,5 @@
+// Sugerencia general de Clean Code: usar if de una sola línea con llaves cuando sea legible.
+
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -5,7 +7,7 @@ using UnityEngine;
 public class Score : MonoBehaviour
 {
 
-    public static Score instance;
+    public static Score instance; // Usar PascalCase
 
     [SerializeField] private TextMeshProUGUI _currentScoreText;
     [SerializeField] private TextMeshProUGUI _highScoreText;
@@ -37,7 +39,7 @@ public class Score : MonoBehaviour
         }
     }
 
-    public void UpdateScore()
+    public void UpdateScore() // Respetar el orden de acceso y static
     {
         AddPoints(1);
     }

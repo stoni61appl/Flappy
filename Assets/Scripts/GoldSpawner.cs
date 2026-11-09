@@ -4,7 +4,7 @@ using static UnityEngine.Audio.ProcessorInstance;
 
 public class GoldSpawner : MonoBehaviour
 {
-    [SerializeField] private float _maxTime = 3f;
+    [SerializeField] private float _maxTime = 3f; // Sin abreviaciones
     [SerializeField] private float _heightRange = 2f;
     [SerializeField] private GameObject _gold;
 

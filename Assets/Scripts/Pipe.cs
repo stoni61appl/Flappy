@@ -4,7 +4,7 @@ public class Pipe : MonoBehaviour
 {
     [SerializeField] private float _speed = 0.65f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void Start() // Revisar: quitar el método vacío
     {
         
     }
