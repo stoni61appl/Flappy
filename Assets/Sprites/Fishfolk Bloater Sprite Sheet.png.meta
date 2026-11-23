@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: fe0aa4fb56d3ba64c84367e69dec5fac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7654089893571137796
+    second: Fishfolk Bloater Sprite Sheet_0
+  - first:
+      213: 8302611057084682849
+    second: Fishfolk Bloater Sprite Sheet_1
+  - first:
+      213: -7812149059488432157
+    second: Fishfolk Bloater Sprite Sheet_2
+  - first:
+      213: -9133055564366094651
+    second: Fishfolk Bloater Sprite Sheet_3
+  - first:
+      213: -6982114358851451649
+    second: Fishfolk Bloater Sprite Sheet_4
+  - first:
+      213: 7050418755400844148
+    second: Fishfolk Bloater Sprite Sheet_5
+  - first:
+      213: -320704616764360976
+    second: Fishfolk Bloater Sprite Sheet_6
+  - first:
+      213: -3846940004966472191
+    second: Fishfolk Bloater Sprite Sheet_7
+  - first:
+      213: 6329390662204990444
+    second: Fishfolk Bloater Sprite Sheet_8
+  - first:
+      213: -1747692344050409722
+    second: Fishfolk Bloater Sprite Sheet_9
+  - first:
+      213: -1748978666891196270
+    second: Fishfolk Bloater Sprite Sheet_10
+  - first:
+      213: -8833546043810939395
+    second: Fishfolk Bloater Sprite Sheet_11
+  - first:
+      213: -8982402742689639960
+    second: Fishfolk Bloater Sprite Sheet_12
+  - first:
+      213: -3953732539399334711
+    second: Fishfolk Bloater Sprite Sheet_13
+  - first:
+      213: 2251190043956730011
+    second: Fishfolk Bloater Sprite Sheet_14
+  - first:
+      213: -6908550120246047901
+    second: Fishfolk Bloater Sprite Sheet_15
+  - first:
+      213: -8100778100406866543
+    second: Fishfolk Bloater Sprite Sheet_16
+  - first:
+      213: -6954065875017265246
+    second: Fishfolk Bloater Sprite Sheet_17
+  - first:
+      213: 487665848606617236
+    second: Fishfolk Bloater Sprite Sheet_18
+  - first:
+      213: -9114994954299024295
+    second: Fishfolk Bloater Sprite Sheet_19
+  - first:
+      213: 6672226269702215687
+    second: Fishfolk Bloater Sprite Sheet_20
+  - first:
+      213: 2602575173633161856
+    second: Fishfolk Bloater Sprite Sheet_21
+  - first:
+      213: 3583662614776400287
+    second: Fishfolk Bloater Sprite Sheet_22
+  - first:
+      213: -2989956726845902699
+    second: Fishfolk Bloater Sprite Sheet_23
+  - first:
+      213: 6068886338739266233
+    second: Fishfolk Bloater Sprite Sheet_24
+  - first:
+      213: 8133704963296861329
+    second: Fishfolk Bloater Sprite Sheet_25
+  - first:
+      213: 7128975686707432299
+    second: Fishfolk Bloater Sprite Sheet_26
+  - first:
+      213: 6414480623655152931
+    second: Fishfolk Bloater Sprite Sheet_27
+  - first:
+      213: -8540113968947882453
+    second: Fishfolk Bloater Sprite Sheet_28
+  - first:
+      213: -3282639475247498045
+    second: Fishfolk Bloater Sprite Sheet_29
+  - first:
+      213: 3745059232664153409
+    second: Fishfolk Bloater Sprite Sheet_30
+  - first:
+      213: 8516906393729421205
+    second: Fishfolk Bloater Sprite Sheet_31
+  - first:
+      213: 6796420683184259014
+    second: Fishfolk Bloater Sprite Sheet_32
+  - first:
+      213: 4393830000770035108
+    second: Fishfolk Bloater Sprite Sheet_33
+  - first:
+      213: -4602427539211925280
+    second: Fishfolk Bloater Sprite Sheet_34
+  - first:
+      213: 3483769516399084719
+    second: Fishfolk Bloater Sprite Sheet_35
+  - first:
+      213: -7228362667364641321
+    second: Fishfolk Bloater Sprite Sheet_36
+  - first:
+      213: 7262496050129921883
+    second: Fishfolk Bloater Sprite Sheet_37
+  - first:
+      213: -2729900115293982951
+    second: Fishfolk Bloater Sprite Sheet_38
+  - first:
+      213: 2225553335014293168
+    second: Fishfolk Bloater Sprite Sheet_39
+  - first:
+      213: -7270507709922014027
+    second: Fishfolk Bloater Sprite Sheet_40
+  - first:
+      213: -6573820588243918427
+    second: Fishfolk Bloater Sprite Sheet_41
+  - first:
+      213: -8258304122825278235
+    second: Fishfolk Bloater Sprite Sheet_42
+  - first:
+      213: 7706988758844290293
+    second: Fishfolk Bloater Sprite Sheet_43
+  - first:
+      213: 564529938155808154
+    second: Fishfolk Bloater Sprite Sheet_44
+  - first:
+      213: 3017981386663223359
+    second: Fishfolk Bloater Sprite Sheet_45
+  - first:
+      213: 451988438798179368
+    second: Fishfolk Bloater Sprite Sheet_46
+  - first:
+      213: -5769511738246339556
+    second: Fishfolk Bloater Sprite Sheet_47
+  - first:
+      213: 9221750805280891215
+    second: Fishfolk Bloater Sprite Sheet_48
+  - first:
+      213: 3871995849258353902
+    second: Fishfolk Bloater Sprite Sheet_49
+  - first:
+      213: 7112383583050778385
+    second: Fishfolk Bloater Sprite Sheet_50
+  - first:
+      213: -4558065435177433338
+    second: Fishfolk Bloater Sprite Sheet_51
+  - first:
+      213: -885975095774175465
+    second: Fishfolk Bloater Sprite Sheet_52
+  - first:
+      213: 1767488162454204633
+    second: Fishfolk Bloater Sprite Sheet_53
+  - first:
+      213: 118407267507059219
+    second: Fishfolk Bloater Sprite Sheet_54
+  - first:
+      213: -2779683972114468583
+    second: Fishfolk Bloater Sprite Sheet_55
+  - first:
+      213: -1150298768675002540
+    second: Fishfolk Bloater Sprite Sheet_56
+  - first:
+      213: -4690543300903027932
+    second: Fishfolk Bloater Sprite Sheet_57
+  - first:
+      213: -3657567677902851042
+    second: Fishfolk Bloater Sprite Sheet_58
+  - first:
+      213: 8581843403175072128
+    second: Fishfolk Bloater Sprite Sheet_59
+  - first:
+      213: 2095389635735281587
+    second: Fishfolk Bloater Sprite Sheet_60
+  - first:
+      213: -165765812247543362
+    second: Fishfolk Bloater Sprite Sheet_61
+  - first:
+      213: -4788072965123711231
+    second: Fishfolk Bloater Sprite Sheet_62
+  - first:
+      213: 8437856074482558635
+    second: Fishfolk Bloater Sprite Sheet_63
+  - first:
+      213: 432397550307196721
+    second: Fishfolk Bloater Sprite Sheet_64
+  - first:
+      213: 4576926814694915073
+    second: Fishfolk Bloater Sprite Sheet_65
+  - first:
+      213: -3164669842729272577
+    second: Fishfolk Bloater Sprite Sheet_66
+  - first:
+      213: 1063717532899765872
+    second: Fishfolk Bloater Sprite Sheet_67
+  - first:
+      213: 5166607059288265929
+    second: Fishfolk Bloater Sprite Sheet_68
+  - first:
+      213: -5398620512196136163
+    second: Fishfolk Bloater Sprite Sheet_69
+  - first:
+      213: -1981812502198124202
+    second: Fishfolk Bloater Sprite Sheet_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011731843ac83a60800000000000000
+      internalID: 7654089893571137796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16253cd64ccc83370800000000000000
+      internalID: 8302611057084682849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b266c288f3093450800000000000000
+      internalID: 6068886338739266233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c1425e199b0e070800000000000000
+      internalID: 8133704963296861329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc79abd953fe260800000000000000
+      internalID: 7128975686707432299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d679f4420d40950800000000000000
+      internalID: 6414480623655152931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26928bb79b6b7980800000000000000
+      internalID: -8540113968947882453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccb2381ac8b172d0800000000000000
+      internalID: -3282639475247498045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d6eb9a78f19f330800000000000000
+      internalID: 3745059232664153409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fce779d31223670800000000000000
+      internalID: 8516906393729421205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb0553a9cb15e50800000000000000
+      internalID: 6796420683184259014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2a5f2b150afc30800000000000000
+      internalID: 4393830000770035108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e84ccca984e020c0800000000000000
+      internalID: -4602427539211925280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44d48dae5d85030800000000000000
+      internalID: 3483769516399084719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fishfolk Bloater Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d519089372bfab90800000000000000
+      internalID: -7228362667364641321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c497fe6cb31a5844685866aebcc0d521
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fishfolk Bloater Sprite Sheet_0: 7654089893571137796
+      Fishfolk Bloater Sprite Sheet_1: 8302611057084682849
+      Fishfolk Bloater Sprite Sheet_10: -1748978666891196270
+      Fishfolk Bloater Sprite Sheet_11: -8833546043810939395
+      Fishfolk Bloater Sprite Sheet_12: -8982402742689639960
+      Fishfolk Bloater Sprite Sheet_13: -3953732539399334711
+      Fishfolk Bloater Sprite Sheet_14: 2251190043956730011
+      Fishfolk Bloater Sprite Sheet_15: -6908550120246047901
+      Fishfolk Bloater Sprite Sheet_16: -8100778100406866543
+      Fishfolk Bloater Sprite Sheet_17: -6954065875017265246
+      Fishfolk Bloater Sprite Sheet_18: 487665848606617236
+      Fishfolk Bloater Sprite Sheet_19: -9114994954299024295
+      Fishfolk Bloater Sprite Sheet_2: -7812149059488432157
+      Fishfolk Bloater Sprite Sheet_20: 6672226269702215687
+      Fishfolk Bloater Sprite Sheet_21: 2602575173633161856
+      Fishfolk Bloater Sprite Sheet_22: 3583662614776400287
+      Fishfolk Bloater Sprite Sheet_23: -2989956726845902699
+      Fishfolk Bloater Sprite Sheet_24: 6068886338739266233
+      Fishfolk Bloater Sprite Sheet_25: 8133704963296861329
+      Fishfolk Bloater Sprite Sheet_26: 7128975686707432299
+      Fishfolk Bloater Sprite Sheet_27: 6414480623655152931
+      Fishfolk Bloater Sprite Sheet_28: -8540113968947882453
+      Fishfolk Bloater Sprite Sheet_29: -3282639475247498045
+      Fishfolk Bloater Sprite Sheet_3: -9133055564366094651
+      Fishfolk Bloater Sprite Sheet_30: 3745059232664153409
+      Fishfolk Bloater Sprite Sheet_31: 8516906393729421205
+      Fishfolk Bloater Sprite Sheet_32: 6796420683184259014
+      Fishfolk Bloater Sprite Sheet_33: 4393830000770035108
+      Fishfolk Bloater Sprite Sheet_34: -4602427539211925280
+      Fishfolk Bloater Sprite Sheet_35: 3483769516399084719
+      Fishfolk Bloater Sprite Sheet_36: -7228362667364641321
+      Fishfolk Bloater Sprite Sheet_37: 7262496050129921883
+      Fishfolk Bloater Sprite Sheet_38: -2729900115293982951
+      Fishfolk Bloater Sprite Sheet_39: 2225553335014293168
+      Fishfolk Bloater Sprite Sheet_4: -6982114358851451649
+      Fishfolk Bloater Sprite Sheet_40: -7270507709922014027
+      Fishfolk Bloater Sprite Sheet_41: -6573820588243918427
+      Fishfolk Bloater Sprite Sheet_42: -8258304122825278235
+      Fishfolk Bloater Sprite Sheet_43: 7706988758844290293
+      Fishfolk Bloater Sprite Sheet_44: 564529938155808154
+      Fishfolk Bloater Sprite Sheet_45: 3017981386663223359
+      Fishfolk Bloater Sprite Sheet_46: 451988438798179368
+      Fishfolk Bloater Sprite Sheet_47: -5769511738246339556
+      Fishfolk Bloater Sprite Sheet_48: 9221750805280891215
+      Fishfolk Bloater Sprite Sheet_49: 3871995849258353902
+      Fishfolk Bloater Sprite Sheet_5: 7050418755400844148
+      Fishfolk Bloater Sprite Sheet_50: 7112383583050778385
+      Fishfolk Bloater Sprite Sheet_51: -4558065435177433338
+      Fishfolk Bloater Sprite Sheet_52: -885975095774175465
+      Fishfolk Bloater Sprite Sheet_53: 1767488162454204633
+      Fishfolk Bloater Sprite Sheet_54: 118407267507059219
+      Fishfolk Bloater Sprite Sheet_55: -2779683972114468583
+      Fishfolk Bloater Sprite Sheet_56: -1150298768675002540
+      Fishfolk Bloater Sprite Sheet_57: -4690543300903027932
+      Fishfolk Bloater Sprite Sheet_58: -3657567677902851042
+      Fishfolk Bloater Sprite Sheet_59: 8581843403175072128
+      Fishfolk Bloater Sprite Sheet_6: -320704616764360976
+      Fishfolk Bloater Sprite Sheet_60: 2095389635735281587
+      Fishfolk Bloater Sprite Sheet_61: -165765812247543362
+      Fishfolk Bloater Sprite Sheet_62: -4788072965123711231
+      Fishfolk Bloater Sprite Sheet_63: 8437856074482558635
+      Fishfolk Bloater Sprite Sheet_64: 432397550307196721
+      Fishfolk Bloater Sprite Sheet_65: 4576926814694915073
+      Fishfolk Bloater Sprite Sheet_66: -3164669842729272577
+      Fishfolk Bloater Sprite Sheet_67: 1063717532899765872
+      Fishfolk Bloater Sprite Sheet_68: 5166607059288265929
+      Fishfolk Bloater Sprite Sheet_69: -5398620512196136163
+      Fishfolk Bloater Sprite Sheet_7: -3846940004966472191
+      Fishfolk Bloater Sprite Sheet_70: -1981812502198124202
+      Fishfolk Bloater Sprite Sheet_8: 6329390662204990444
+      Fishfolk Bloater Sprite Sheet_9: -1747692344050409722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
